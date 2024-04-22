@@ -20,6 +20,5 @@ Minimum 1 day. Maximum 90 days unless changed from the repository settings page.
 
     compression-level: # optional, default is 6
     # If true, an artifact with a matching name will be deleted before a new one is uploaded. If false, the action will fail if an artifact for the given name already exists. Does not fail if the artifact does not exist.
-
     overwrite: # optional, default is false
           
