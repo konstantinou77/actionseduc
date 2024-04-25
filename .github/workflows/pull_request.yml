@@ -5,5 +5,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print context
-        run: echo :"${{ toJSon (github) }}"
+        run: echo :"${{ toJSon(github) }}"
 
